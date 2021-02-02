@@ -6,6 +6,12 @@ Games files are pretty easy to understand, The game has a three folder structure
 Requirement:
 Ability to play unencrypted XEX files.
 Know how to patch games?
+Expectations for not the best quality translation, Limited character space.
 
 Todo:
 Hack Font to look better
+Tons and Tons of Text to Translate & Inject
+
+
+![Battles Translated](https://s3.yuvi.app/GamePreservation/CrossHermit/github-files/chwindows.png)
+![Menu Translated](https://s3.yuvi.app/GamePreservation/CrossHermit/github-files/chwindows.png)
