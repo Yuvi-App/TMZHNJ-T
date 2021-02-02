@@ -4,13 +4,13 @@ Tengai Makyou: Ziria Haruka naru Jipang is quite a unknown and rare Japanaese Xb
 Games files are pretty easy to understand, The game has a three folder structure one of them containing a AFS Package, and the other two are Scripts/Maps and Movies. All files can easily be extracted from the AFS package with quickbms and AFS script. After you extract the package you have  Sounds, movies, and music are all in ADX for sounds, and SFD for movies, all of which play natively to VLC.
 
 Requirement:
--Ability to play unencrypted XEX files.
--Know how to patch games?
--Expectations for not the best quality translation, Limited character space.
+- Ability to play unencrypted XEX files.
+- Know how to patch games?
+- Expectations for not the best quality translation, Limited character space.
 
 Todo:
--Hack Font to look better
--Tons and Tons of Text to Translate & Inject
+- Hack Font to look better
+- Tons and Tons of Text to Translate & Inject
 
 
 ![Battles Translated](https://s3.yuvi.app/GamePreservation/FarEastofEdenZiria/FEOEZ1.png)
