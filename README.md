@@ -13,5 +13,5 @@ Hack Font to look better
 Tons and Tons of Text to Translate & Inject
 
 
-![Battles Translated](https://s3.yuvi.app/GamePreservation/CrossHermit/github-files/chwindows.png)
-![Menu Translated](https://s3.yuvi.app/GamePreservation/CrossHermit/github-files/chwindows.png)
+![Battles Translated](https://s3.yuvi.app/GamePreservation/FarEastofEdenZiria/FEOEZ1.png)
+![Menu Translated](https://s3.yuvi.app/GamePreservation/FarEastofEdenZiria/FEOEZ2.png)
