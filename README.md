@@ -3,6 +3,8 @@ Tengai Makyou: Ziria Haruka naru Jipang is quite a unknown and rare Japanaese Xb
 
 Games files are pretty easy to understand, The game has a three folder structure one of them containing a AFS Package, and the other two are Scripts/Maps and Movies. All files can easily be extracted from the AFS package with quickbms and AFS script. After you extract the package you have  Sounds, movies, and music are all in ADX for sounds, and SFD for movies, all of which play natively to VLC.
 
+As you might see the game is using two byte kanji for everything which gives full width english, which limits the room on the menu. 01 00 will signify a break line but only so much can be put on there. Will need to work on AMS hacking it or trying to inject a new font file. Which when extracted you get a font_dds.cns file which is whats loaded by the game. Figuring out the cns format should allow for a new font to be used. Have also been unable to locate the pointer tables to maybe find free space to allow for longer text (though honestly it wont help much unless the full width text is fixed)
+
 Requirement:
 - Ability to play unencrypted XEX files.
 - Know how to patch games?
